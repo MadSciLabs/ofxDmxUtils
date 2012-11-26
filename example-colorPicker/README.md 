@@ -1,0 +1,9 @@
+ofxDmxUtils motion-Kinect Example
+=====================================
+
+this is a very simple example using ofxDmxUtils:: n to calculate the fine and coarse values of rotation in each axis.
+
+
+Installation
+------------
+please add ofxDmxUtils and ofxDmx to the addons folder.

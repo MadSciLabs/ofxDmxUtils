@@ -1,0 +1,11 @@
+ofxDmxUtils motion-Kinect Example
+=====================================
+
+this is a very simple example showing how to connect MS Kinect's hand tracking capabilities with Dmx using ofxDmxUtils::setRotation
+
+
+Installation
+------------
+please add ofxDmxUtils, ofxDmx and ofxOpenNI (2.0) to the addons folder.
+don't forget to include the openni lib and config folders in the bin/data/openni folder.
+
